@@ -39,4 +39,7 @@ ___
 
 ## KozmikDNS
 
-Coming soon!
+Instructions Coming soon!
+
+
+Current ip: `129.213.138.223`
