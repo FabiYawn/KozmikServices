@@ -34,3 +34,9 @@ This is great for bypassing network blocks and extension-based blocks (like ligh
    <img src="https://github.com/KozmikNano/KozmikServices/blob/main/images/Screenshot_2022-09-07_7.40.11_PM.png?raw=true" alt="Screenshot_2022-09-07_7.40.11_PM.png"/>
    
 6. Verify that you are connected and open `chrome://restart` in the chrome browser. Note: if you get an error like `internal error` or `connection failed` try again. If you are still having issues try the other file. If you are still having issues, contact me on discord!
+
+___
+
+## KozmikDNS
+
+Coming soon!
