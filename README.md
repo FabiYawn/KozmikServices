@@ -1,6 +1,7 @@
 # KozmikServices
 
 Consider donating, proceeds will go to upgrading the server and making it faster!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/KozmikNano)
 _____
 
